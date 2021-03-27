@@ -43,7 +43,7 @@
     /* Skeleton */
     .cardSkeleton {
         width: 30%;
-        height: 400px;
+        height: 300px;
         background-color: rgb(34, 34, 34);
         display: flex;
         flex-direction: column;

@@ -111,7 +111,7 @@
     .card {
         width: 32%;
         margin: 20px 0;
-        min-height: 400px;
+        min-height: 300px;
         background-color: rgb(34, 34, 34);
         padding-bottom: 20px;
         box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
