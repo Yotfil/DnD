@@ -5,7 +5,6 @@
     import Collapsable from './Collapsable.svelte';
 
     import { onMount } from 'svelte';
-    import App from './App.svelte';
 
     export let monster = 'acolyte';
     let monsterToRender = {};

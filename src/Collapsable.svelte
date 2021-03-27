@@ -96,7 +96,7 @@
         margin: 5px 0;
     }
     .showCollapsable {
-        height: 300px;
+        height: auto;
         transition: all 0.5s ease-in-out;
     }
     .rotate {
